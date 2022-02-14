@@ -5,7 +5,12 @@ description: This resource contains lecture discourse on Spectral Theorem which 
   and the equation for it and the supporting propositions and proofs.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-155-differential-analysis-fall-2004/3e48d6ece0677727dfac3934edcee60e_section16.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: section16.pdf
+type: OCWFile
 uid: 3e48d6ec-e067-7727-dfac-3934edcee60e
 ---

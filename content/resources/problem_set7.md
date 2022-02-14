@@ -5,7 +5,12 @@ description: This resource contains two problems from notes (61 and 62) plus the
   problems are on Restriction from Sobolev spaces and the Sobolev embedding theorem.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-155-differential-analysis-fall-2004/f86e8ee295012466e8743cb3a91dbdcf_problem_set7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: problem_set7.pdf
+type: OCWFile
 uid: f86e8ee2-9501-2466-e874-3cb3a91dbdcf
 ---

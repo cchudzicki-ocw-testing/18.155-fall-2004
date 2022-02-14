@@ -7,7 +7,12 @@ description: This resource provides the introduction to the topics covered in th
   for these problems.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-155-differential-analysis-fall-2004/d7569c76af5fd5132b03d34b4db590e0_lecture_notes.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture_notes.pdf
+type: OCWFile
 uid: d7569c76-af5f-d513-2b03-d34b4db590e0
 ---

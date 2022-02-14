@@ -6,7 +6,12 @@ description: This resource contains lecture discourse on Measureability of Funct
   and lemmas.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-155-differential-analysis-fall-2004/447c5870100c43f0ded7978fc946e4f4_section3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: section3.pdf
+type: OCWFile
 uid: 447c5870-100c-43f0-ded7-978fc946e4f4
 ---
