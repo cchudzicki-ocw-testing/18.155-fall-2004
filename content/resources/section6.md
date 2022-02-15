@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: section6.pdf
-type: OCWFile
 uid: 917fa91f-8c2a-5fff-aef2-ccd3f81b9904
 ---

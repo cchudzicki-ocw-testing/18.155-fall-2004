@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: problems.pdf
-type: OCWFile
 uid: 367cb3a9-39cc-40b0-d2de-a20d2fd8f47b
 ---

@@ -13,6 +13,5 @@ parent_title: Calendar
 parent_type: CourseSection
 resourcetype: Image
 title: homo_dis.jpg
-type: OCWImage
 uid: aea17331-160e-b165-03a9-44043f858338
 ---

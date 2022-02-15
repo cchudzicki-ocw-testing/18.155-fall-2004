@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: solution_prob.pdf
-type: OCWFile
 uid: 316b5390-4ce1-06dc-3339-3334695469c8
 ---

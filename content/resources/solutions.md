@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: solutions.pdf
-type: OCWFile
 uid: 59c53319-bbec-2e98-5619-c6c23f73b409
 ---
