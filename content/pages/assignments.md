@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: 3292dd42-2aab-251e-f6d7-6bfb08cb2cd9
+video_metadata:
+  youtube_id: null
 ---
 
 These are the problem sets handed out to students.

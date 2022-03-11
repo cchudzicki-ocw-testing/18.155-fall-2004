@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 9d37afe0-3ee3-daa4-8c60-c9c4883b90d4
+video_metadata:
+  youtube_id: null
 ---
 
 The entire lecture notes is available as a single file ({{% resource_link d7569c76-af5f-d513-2b03-d34b4db590e0 "PDF - 1.7MB" %}}) or by individual chapters listed below.

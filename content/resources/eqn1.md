@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: eqn1.jpg
 uid: c7b5319e-d665-e362-0f34-407d3e3b3221
+video_metadata:
+  youtube_id: null
 ---

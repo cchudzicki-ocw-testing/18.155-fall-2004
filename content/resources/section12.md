@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: section12.pdf
 uid: a27e62a9-9214-27c6-f15d-a631a591d0e7
+video_metadata:
+  youtube_id: null
 ---

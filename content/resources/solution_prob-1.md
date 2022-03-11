@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: solution_prob.pdf
 uid: 5ecbb92f-0620-d93d-fb1d-296060dfa49d
+video_metadata:
+  youtube_id: null
 ---

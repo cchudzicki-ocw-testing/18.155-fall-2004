@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: homo_dis.jpg
 uid: aea17331-160e-b165-03a9-44043f858338
+video_metadata:
+  youtube_id: null
 ---

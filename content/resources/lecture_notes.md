@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: lecture_notes.pdf
 uid: d7569c76-af5f-d513-2b03-d34b4db590e0
+video_metadata:
+  youtube_id: null
 ---

@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: refs.pdf
 uid: 9e966587-1e79-49df-44cb-1d398253eeac
+video_metadata:
+  youtube_id: null
 ---

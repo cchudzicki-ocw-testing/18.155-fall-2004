@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: cdf00bb7-25f3-974a-3791-f6c4b73b099f
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -259,7 +261,7 @@ The Distributions x{{< sup "z" >}}{{< sub "±" >}}, z ∈ C\\(-N)
 
 Distributions Supported at 0
 
-Homogeneous Distributions of Order ![Homogeneous distributions.](/courses/mathematics/18-155-differential-analysis-fall-2004/calendar/homo_dis.jpg) on the Line
+Homogeneous Distributions of Order {{< resource aea17331-160e-b165-03a9-44043f858338 "Homogeneous distributions." >}} on the Line
 
 Hadamard Regularization
 

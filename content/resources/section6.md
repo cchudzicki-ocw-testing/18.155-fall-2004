@@ -13,4 +13,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: section6.pdf
 uid: 917fa91f-8c2a-5fff-aef2-ccd3f81b9904
+video_metadata:
+  youtube_id: null
 ---
