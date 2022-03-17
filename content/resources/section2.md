@@ -20,4 +20,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: section2.pdf
 uid: f95f20b1-5694-2dd6-70f4-ee9e30edb227
+video_metadata:
+  youtube_id: null
 ---
