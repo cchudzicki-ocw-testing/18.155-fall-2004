@@ -261,7 +261,7 @@ The Distributions x{{< sup "z" >}}{{< sub "±" >}}, z ∈ C\\(-N)
 
 Distributions Supported at 0
 
-Homogeneous Distributions of Order {{< resource aea17331-160e-b165-03a9-44043f858338 "Homogeneous distributions." >}} on the Line
+Homogeneous Distributions of Order {{< resource "aea17331-160e-b165-03a9-44043f858338" >}} on the Line
 
 Hadamard Regularization
 
