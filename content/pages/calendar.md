@@ -7,7 +7,6 @@ uid: cdf00bb7-25f3-974a-3791-f6c4b73b099f
 video_metadata:
   youtube_id: null
 ---
-
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
@@ -209,7 +208,7 @@ Problem set 4 due
 
 Compact Supports
 
-Convolution of Distributions supp(u{{< sub "\\*" >}}v) ⊂ supp(u)+ supp(v) if one, at least, has Compact Support
+Convolution of Distributions supp(u{{< sub "\*" >}}v) ⊂ supp(u)+ supp(v) if one, at least, has Compact Support
 
 Fundamental Solutions
 
