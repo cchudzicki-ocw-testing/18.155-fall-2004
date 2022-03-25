@@ -38,7 +38,7 @@ To pass the course each student was required to carry out one of the projects wh
 3. Seeley's extension theorem
 4. Gibb's phenomenon
 5. Surjectivity of any non-trivial constant coefficient differential operator, *P*: *S'* (R{{< sup "n" >}}) → *S'* (R{{< sup "n" >}})
-6. Every elliptic differential operator with constant coefficients is surjective as a map on C{{< sup "∞" >}}(U), for any open set *U* ⊂ R{{< sup "n" >}}
+6. Every elliptic differential operator with constant coefficients is surjective as a map on *C*{{< sup "∞" >}}(U), for any open set *U* ⊂ R{{< sup "n" >}}
 7. Lidskii's theorem on trace class operators on *L*{{< sup "2" >}}(R{{< sup "n" >}})
 
 ## Grading
