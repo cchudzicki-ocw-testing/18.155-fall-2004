@@ -4,7 +4,7 @@ description: This resource contains lecture discourse on Measureability of Funct
   equations for it, how similar this is to one of the characterizations of continuity
   for maps between metric spaces in terms of open sets and supporting theorems, prpopositions
   and lemmas.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-155-differential-analysis-fall-2004/447c5870100c43f0ded7978fc946e4f4_section3.pdf
+file: /courses/18-155-differential-analysis-fall-2004/447c5870100c43f0ded7978fc946e4f4_section3.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -18,3 +18,4 @@ uid: 447c5870-100c-43f0-ded7-978fc946e4f4
 video_metadata:
   youtube_id: null
 ---
+This resource contains lecture discourse on Measureability of Functions, equations for it, how similar this is to one of the characterizations of continuity for maps between metric spaces in terms of open sets and supporting theorems, prpopositions and lemmas.
