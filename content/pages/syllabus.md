@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus section contains information on the course text book, lecture
+  topics and the suggested project topics for the students.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
