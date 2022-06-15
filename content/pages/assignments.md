@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The assignments section provides problem sets handed out to students
+  in class and the solutions to some of these problems.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
