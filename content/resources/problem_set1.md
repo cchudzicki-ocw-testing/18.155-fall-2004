@@ -9,6 +9,7 @@ file: /courses/18-155-differential-analysis-fall-2004/13f2b5affa1737eb892cb2bbe5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
